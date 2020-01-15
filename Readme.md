@@ -1,0 +1,1 @@
+[![GitHub issues](https://img.shields.io/github/issues/windate3411/tiny)](https://github.com/windate3411/tiny/issues)
