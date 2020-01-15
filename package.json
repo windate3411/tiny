@@ -1,6 +1,6 @@
 {
   "name": "@windate3411/tiny",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "license": "MIT",
   "main": "index.js",
   "description": "determine if a number is a prime number",
