@@ -1,0 +1,13 @@
+{
+  "name": "@windate3411/tiny",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "description": "determine if a number is a prime number",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "windate3411"
+  ]
+}
